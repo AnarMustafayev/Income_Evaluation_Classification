@@ -1,1 +1,1 @@
-This repo covers the machine learning classification problem using various techniques through scikit learn library. Here I developed different classification models, these models were trained based on income_evaluation.csv and in final stage I evaluated performance of models. 
+This repo covers the machine learning classification problem using various techniques through scikit learn library. Here I developed different classification models, these models were trained based on income_evaluation.csv and in the final stage I evaluated performance of models. 
